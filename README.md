@@ -27,10 +27,7 @@ GestureGuide/
 ├── models/
 │   └── modelofinal.keras
 └── README.md
- ```
-
- ![alt text](image-2.png)
- 
+ ``` 
 
 ## ⌛ Proceso
 
@@ -45,8 +42,11 @@ GestureGuide/
 ### Manejo de Excepciones
 
 - **Captura de Excepciones**: Utilizamos bloques try-except para identificar y gestionar errores específicos sin interrumpir el flujo de la aplicación.
+
 -**Logging**: Empleamos el módulo logging de Python para registrar errores y eventos importantes, facilitando el diagnóstico y la resolución de problemas.
+
 -**Manejo de Errores en Flask**: Manejamos excepciones en nuestras rutas Flask para proporcionar mensajes de error claros a los usuarios y registrar cualquier problema.
+
 -**Validación de Datos**: Validamos los datos de entrada para evitar errores comunes y asegurar la integridad de la información procesada.
 
 ### Modelo de Machine Learning
@@ -74,7 +74,9 @@ Actualmente, estamos en la fase de integración de nuestro modelo de inteligenci
 Queremos expresar nuestro más sincero agradecimiento a todas las personas y organizaciones que han contribuido a este proyecto. En particular, queremos agradecer a:
 
 - **Nuestros profesores y mentores**: Por su guía y apoyo constante durante todo el desarrollo del proyecto.
+
 - **Los usuarios de prueba**: Por su tiempo y valiosos comentarios que nos han ayudado a mejorar nuestra aplicación.
+
 - **Nuestros compañeros de equipo**: Cristian, Frandy, Jensey y Ronald, por su dedicación y esfuerzo incansable para hacer realidad este proyecto.
 
 Sin el apoyo de todos ustedes, este proyecto no habría sido posible. ¡Gracias!
