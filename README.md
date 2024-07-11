@@ -14,7 +14,10 @@ GestureGuide/
 ├── app.py
 ├── funtions.py
 ├── metrics.py
+├── Codigo_Jupyter/
+│   └── proyecto_completo_señas
 ├── static/
+├── templates/
 │   ├── css/
 │   ├── js/
 │   ├── images/
